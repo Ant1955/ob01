@@ -28,7 +28,7 @@ class Task:
 
 # Пример использования:
 task_manager = Task()
-task_manager.add_task('Закончить Д', '2024-05-20')
+task_manager.add_task('Закончить ДЗ', '2024-05-20')
 task_manager.add_task('Купить продукты', '2024-05-18')
 task_manager.add_task('Ответить про лицнзирование StoreOnce', '2024-05-19')
 task_manager.mark_completed('Купить продукты')
